@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EKaiZhao
 - 👀 I’m interested in IT，ICT
 - 🌱 I’m currently learning High School Courses
-- 💞️ I’m looking to collaborate on GitHub
 - 📫 You can contact me by zhaoyikaicommunity@outlook.com
 - I love my country, the People's Republic of China,
 and although we still have some problems, 
@@ -15,7 +14,3 @@ und obwohl wir noch einige Probleme haben, glaube ich, dass der chinesische Trau
 et bien que nous ayons encore quelques problèmes, je crois que le rêve chinois du grand rajeunissement de la nation chinoise se réalisera
 - Я люблю свою страну, Китайскую Народную Республику,
 и хотя у нас все еще есть некоторые проблемы, я верю, что китайская мечта о великом омоложении китайской нации осуществится
-<!---
-EKaiZhao/EKaiZhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
